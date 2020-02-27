@@ -1,0 +1,38 @@
+body{
+    background-color: #eaeaea;
+    background: url("https://www.zingerbug.com/Backgrounds/background_images/indigo_textured_rock_seamless_pattern.jpg");
+    
+
+}
+.main{
+    border: 10px white solid;
+    background-color: white;
+    width: 800px;
+    margin: auto;
+}
+.title{
+    background-color: #a8f0f0;
+    text-align: right;
+}
+.title > h2{
+    font-size: 14pt;
+}
+.article{
+    border: 4px #c2e9e9 solid;
+    background-color: #e8fbfb;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.article img{
+    float: right;
+}
+span{
+    border-bottom: 2px blue dashed;
+}
+.left{
+    float: left;
+}
+.right{
+    overflow: hidden;
+}
